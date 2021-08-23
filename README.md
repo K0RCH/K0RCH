@@ -10,6 +10,9 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 - 🎯 2022 goal: Contribute and learn more than in 2021
 - ♟️ Fun fact: I love playing chess, doing puzzles and spending evenings playing family board games
 
+<br />
+<br />
+
 ### Contact me:
 
 [<img align='left' alt='K0RCH' width='22px' src='https://image.flaticon.com/icons/png/512/174/174857.png' />](https://www.linkedin.com/in/dawid-kurowski/)
@@ -41,5 +44,6 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 
 <img align='left' alt='K0RCH' width='22px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/1200px-United-kingdom_flag_icon_round.svg.png' /> - **B2**
 
-<br />
-<br />
+---
+
+<img align='left' alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api?username=K0RCH&show_icons=true&hide_border=true' />
