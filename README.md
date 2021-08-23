@@ -46,4 +46,4 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 
 ---
 
-<img align='left' alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api?username=K0RCH&show_icons=true&hide_border=true' />
+<img align='center' alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api?username=K0RCH&show_icons=true&hide_border=true&theme=radical&count_private=true' />
