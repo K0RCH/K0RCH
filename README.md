@@ -22,18 +22,17 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 
 ### Technologies and Tools:
 
-Technologies: HTML / CSS / JS / REACT
+**Technologies:** HTML / CSS / JS / REACT
 
-Tools: VS Code / GitHub / Wordpress / Adobe Illustrator / Adobe Photoshop / Adobe InDesign
-
-<br />
-<br />
+**Tools:** VS Code / GitHub / Wordpress / Adobe Illustrator / Adobe Photoshop / Adobe InDesign
 
 ### Languages:
 
-<img align='left' alt='K0RCH' width='22px' src='https://cdn.countryflags.com/thumbs/poland/flag-round-250.png' /> - **native**
+<img align='left' alt='K0RCH' width='22px' src='https://cdn.countryflags.com/thumbs/poland/flag-round-250.png' /> - **Native**
 
 <img align='left' alt='K0RCH' width='22px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/1200px-United-kingdom_flag_icon_round.svg.png' /> - **B2**
+
+<img align='left' alt='K0RCH' width='22px' src='https://cdn.countryflags.com/thumbs/germany/flag-round-250.png' /> - **A1**
 
 ---
 
