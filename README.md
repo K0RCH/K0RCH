@@ -12,10 +12,10 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 
 ### Contact me:
 
-[<img align='left' alt='K0RCH' width='22px' src='https://imgur.com/PXyIkWx' />](https://www.linkedin.com/in/dawid-kurowski/)
-[<img align='left' alt='K0RCH' width='22px' src='https://imgur.com/jZ9kcpM' />](https://www.facebook.com/TheKuroch)
-[<img align='left' alt='K0RCH' width='22px' src='https://imgur.com/4FY75fi' />](https://github.com/K0RCH)
-[<img align='left' alt='K0RCH' width='22px' src='https://imgur.com/OWdUupI' />](https://www.instagram.com/d_kurovsky/)
+[<img align='left' alt='K0RCH' width='22px' src='https://image.flaticon.com/icons/png/512/174/174857.png' />](https://www.linkedin.com/in/dawid-kurowski/)
+[<img align='left' alt='K0RCH' width='22px' src='https://partner-bud.pl/wp-content/uploads/2016/11/facebook-icon-preview-1.png' />](https://www.facebook.com/TheKuroch)
+[<img align='left' alt='K0RCH' width='22px' src='https://image.flaticon.com/icons/png/512/25/25231.png' />](https://github.com/K0RCH)
+[<img align='left' alt='K0RCH' width='22px' src='http://nolimits.art.pl/wp-content/uploads/2020/11/1025px-Instagram-Icon.png' />](https://www.instagram.com/d_kurovsky/)
 
 <br />
 
@@ -24,6 +24,7 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 <img align='left' alt='K0RCH' width='22px' src='https://www.pavkrol.pl/img/html-5.svg' />
 <img align='left' alt='K0RCH' width='22px' src='https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png' />
 <img align='left' alt='K0RCH' width='22px' src='https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png' />
+<img align='left' alt='K0RCH' width='22px' src='https://www.empressia.pl/images/logotypy/react.svg' />
 <img align='left' alt='K0RCH' width='22px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' />
 <img align='left' alt='K0RCH' width='22px' src='https://image.flaticon.com/icons/png/512/25/25231.png' />
 <img align='left' alt='K0RCH' width='22px' src='https://cudichis.ro/wp-content/uploads/2021/03/1051px-Adobe_Illustrator_CC_icon.svg.png' />
