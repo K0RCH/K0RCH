@@ -10,6 +10,8 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 - 🎯 2022 goal: Contribute and learn more than in 2021
 - ♟️ Fun fact: I love playing chess, doing puzzles and spending evenings playing family board games
 
+<br />
+<br />
 ---
 
 ### Connect with me:
@@ -20,6 +22,8 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 [<img align='left' alt='instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' />](https://www.instagram.com/d_kurovsky/)
 [<img align='left' alt='behance' src='https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white' />](https://www.behance.net/thekuroch)
 
+<br />
+<br />
 ---
 
 ### Technologies and Tools:
@@ -38,6 +42,8 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 <img align='left' alt='adobe-inDesign' src='https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white' />
 <img align='left' alt='adobe-photoshop' src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black' />
 
+<br />
+<br />
 ---
 
 ### Languages:
@@ -50,4 +56,5 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 
 ---
 
-<img align='center' alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api?username=K0RCH&show_icons=true&hide_border=true&theme=radical&count_private=true' />
+<img align='left' alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api?username=K0RCH&show_icons=true&hide_border=true&theme=radical&count_private=true' />
+<img align='left' alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=K0RCH&layout=compact&hide_border=true&theme=radical&count_private=true' />
