@@ -61,12 +61,12 @@ I am a student of the Warsaw University of Technology (Faculty of Management, Ma
 
 ---
 
-<div style="text-align:center">
-    <img align="center" alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api?username=K0RCH&show_icons=true&hide_border=true&theme=radical&count_private=true' />
-</div>
+<p align='center'>
+    <img align='center' alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api?username=K0RCH&show_icons=true&hide_border=true&theme=radical&count_private=true' />
+</p>
 
 <br />
 
-<div style="text-align:center">
-    <img align="center" alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=K0RCH&layout=compact&hide_border=true&theme=radical&count_private=true' />
-</div>
+<p align='center'>
+    <img align='center' alt='K0RCH Github Stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=K0RCH&layout=compact&hide_border=true&theme=radical&count_private=true' />
+</p>
